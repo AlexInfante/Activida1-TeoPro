@@ -6,7 +6,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 - `for`: `ejercicios/suma_digitos/for.c` 
 - `while`: `ejercicios/suma_digitos/while.c` 
 - `do while`: `ejercicios/suma_digitos/do_while.c`
-2.**Inverso de un número** 
+2. **Inverso de un número** 
 - `for`: `ejercicios/inverso_numero/for.c` 
 - `while`: `ejercicios/inverso_numero/while.c` 
 - `do while`: `ejercicios/inverso_numero/do_while.c` 
